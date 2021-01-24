@@ -1,2 +1,2 @@
 # NA-TST
-Rate constant evaluation within the nonadiabatic transition state theory 
+Rate constant evaluation using nonadiabatic transition state theory 
